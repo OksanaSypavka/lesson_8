@@ -40,7 +40,7 @@ line-height: 160%;
 text-decoration: none;
 }
 .list_item li::before{
-   background: url(/icons/check.svg) 0 0 no-repeat;
+   background: url(icons/check.svg) 0 0 no-repeat;
    content: "";
    width: 16px;
    height: 16px;
@@ -81,7 +81,7 @@ font-weight: 800;
 margin-bottom: 25px;
 }
 .inform_star::before {
-   background: url(/icons/Star.svg) 0 0 no-repeat;
+   background: url(icons/Star.svg) 0 0 no-repeat;
    content: "";
    width: 16px;
    height: 16px;
@@ -90,7 +90,7 @@ margin-bottom: 25px;
 }
 
 .inform_time::before {
-   background: url(/icons/Play.svg) 0 0 no-repeat;
+   background: url(icons/Play.svg) 0 0 no-repeat;
    content: "";
    width: 16px;
    height: 16px;
@@ -99,7 +99,7 @@ margin-bottom: 25px;
 }
 
 .inform_person::before {
-   background: url(/icons/Profile.svg) 0 0 no-repeat;
+   background: url(icons/Profile.svg) 0 0 no-repeat;
    content: "";
    width: 16px;
    height: 16px;
@@ -225,7 +225,7 @@ font-size: 45px;
 
 .start_line{
    border: 2px solid pink;
-   background: url(/img/start.png) no-repeat center/ cover;
+   background: url(img/start.png) no-repeat center/ cover;
    border-radius: 10px;
    width: 80px;
    height: 60px;
@@ -363,7 +363,7 @@ margin-left: 25px;
    width: 80px;
    height: 60px;
    border-radius: 50px;
-   background: url(/img/finish.png) no-repeat center / cover;
+   background: url(img/finish.png) no-repeat center / cover;
    margin-left: 574px;
 }
 
