@@ -40,7 +40,7 @@ line-height: 160%;
 text-decoration: none;
 }
 .list_item li::before{
-   background: url(icons/check.svg) 0 0 no-repeat;
+   background: url(../icons/check.svg) 0 0 no-repeat;
    content: "";
    width: 16px;
    height: 16px;
@@ -81,7 +81,7 @@ font-weight: 800;
 margin-bottom: 25px;
 }
 .inform_star::before {
-   background: url(icons/Star.svg) 0 0 no-repeat;
+   background: url(../icons/Star.svg) 0 0 no-repeat;
    content: "";
    width: 16px;
    height: 16px;
@@ -90,7 +90,7 @@ margin-bottom: 25px;
 }
 
 .inform_time::before {
-   background: url(icons/Play.svg) 0 0 no-repeat;
+   background: url(../icons/Play.svg) 0 0 no-repeat;
    content: "";
    width: 16px;
    height: 16px;
@@ -99,7 +99,7 @@ margin-bottom: 25px;
 }
 
 .inform_person::before {
-   background: url(icons/Profile.svg) 0 0 no-repeat;
+   background: url(../icons/Profile.svg) 0 0 no-repeat;
    content: "";
    width: 16px;
    height: 16px;
